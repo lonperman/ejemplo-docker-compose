@@ -1,4 +1,4 @@
-# ejemplo-docker-compose
+# Ejemplo-docker-compose
 Pequeña aplicacion que sirve como base para entender docker-compose
 
 
